@@ -7,6 +7,21 @@ The dashboard is designed with a clean **basketball-themed UI** and follows prop
 
 ---
 
+## 📂 Dataset Access
+The NBA dataset used in this project exceeds GitHub’s file size limits.
+
+👉 Download the full dataset here:  
+[Download NBA Dataset (CSV)]  ->  https://drive.google.com/drive/folders/1BwVWTWcjced3grJmdm8Z77uM63N6Ar3j?usp=sharing
+
+The dataset includes:
+- teams.csv
+- players.csv
+- games.csv
+- games_details.csv
+- ranking.csv
+
+---
+
 ## 📊 Dataset Description
 The dataset consists of multiple CSV files related to NBA games, players, teams, and standings:
 
